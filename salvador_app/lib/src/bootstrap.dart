@@ -3,12 +3,12 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 //import 'package:isar/isar.dart';
-import 'package:salvador_task_management/src/config/providers.dart'
+import 'package:illyricum_music/src/config/providers.dart'
     as providers;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:salvador_task_management/src/protobuf/user_access_configuration/Contract.pb.dart';
-import 'package:salvador_task_management/src/repository/user_menu_repository.dart';
+import 'package:illyricum_music/src/protobuf/user_access_configuration/Contract.pb.dart';
+import 'package:illyricum_music/src/repository/user_menu_repository.dart';
 
 /// Initializes services and controllers before the start of the application
 Future<ProviderContainer> bootstrap() async {

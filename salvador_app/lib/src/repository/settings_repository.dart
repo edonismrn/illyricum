@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:salvador_task_management/src/config/providers.dart';
+import 'package:illyricum_music/src/config/providers.dart';
 import 'package:flutter/material.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 

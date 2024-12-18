@@ -3,8 +3,8 @@ import 'package:dio/dio.dart';
 import 'package:dio/io.dart';
 import 'package:global_configuration/global_configuration.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:salvador_task_management/src/config/providers.dart';
-import 'package:salvador_task_management/src/models/cliente_model.dart';
+import 'package:illyricum_music/src/config/providers.dart';
+import 'package:illyricum_music/src/models/cliente_model.dart';
 
 part 'clienti_api_repository.g.dart';
 

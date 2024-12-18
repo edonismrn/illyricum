@@ -1,7 +1,7 @@
-import 'package:salvador_task_management/src/config/navigation/navigation_service.dart';
-import 'package:salvador_task_management/src/config/navigation/routes_generator.dart';
-import 'package:salvador_task_management/src/features/main_view/main_view.dart';
-import 'package:salvador_task_management/src/features/pages/settings/settings_controller.dart';
+import 'package:illyricum_music/src/config/navigation/navigation_service.dart';
+import 'package:illyricum_music/src/config/navigation/routes_generator.dart';
+import 'package:illyricum_music/src/features/main_view/main_view.dart';
+import 'package:illyricum_music/src/features/pages/settings/settings_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';

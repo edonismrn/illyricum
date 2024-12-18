@@ -1,7 +1,7 @@
 import 'package:isar/isar.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:salvador_task_management/src/config/providers.dart';
-import 'package:salvador_task_management/src/models/articolo_model.dart';
+import 'package:illyricum_music/src/config/providers.dart';
+import 'package:illyricum_music/src/models/articolo_model.dart';
 
 part 'item_db_repository.g.dart';
 

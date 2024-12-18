@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:salvador_task_management/src/repository/user_menu_repository.dart';
+import 'package:illyricum_music/src/repository/user_menu_repository.dart';
 
 part 'user_menu_controller.g.dart';
 

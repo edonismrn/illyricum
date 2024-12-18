@@ -1,4 +1,4 @@
-import 'package:salvador_task_management/src/features/main_view/main_view.dart';
+import 'package:illyricum_music/src/features/main_view/main_view.dart';
 import 'package:flutter/material.dart';
 
 class RouteGenerator {

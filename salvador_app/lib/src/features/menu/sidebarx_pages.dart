@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:salvador_task_management/src/features/pages/interventi_aperti/interventi_aperti.dart';
-import 'package:salvador_task_management/src/features/pages/nuovo_intervento/nuovo_intervento_page.dart';
-import 'package:salvador_task_management/src/features/pages/settings/settings_page.dart';
-import 'package:salvador_task_management/src/features/pages/sync/sync_page.dart';
+import 'package:illyricum_music/src/features/pages/download/download_page.dart';
+import 'package:illyricum_music/src/features/pages/musiche/musiche_page.dart';
+import 'package:illyricum_music/src/features/pages/settings/settings_page.dart';
 import 'package:sidebarx/sidebarx.dart';
 
 class SidebarXPages extends ConsumerWidget {

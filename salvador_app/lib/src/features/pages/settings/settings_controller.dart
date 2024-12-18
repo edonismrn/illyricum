@@ -1,4 +1,4 @@
-import 'package:salvador_task_management/src/repository/settings_repository.dart';
+import 'package:illyricum_music/src/repository/settings_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 

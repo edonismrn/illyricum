@@ -1,6 +1,6 @@
 //import 'dart:convert';
-import 'package:salvador_task_management/src/config/providers.dart';
-import 'package:salvador_task_management/src/protobuf/user_access_configuration/Contract.pb.dart';
+import 'package:illyricum_music/src/config/providers.dart';
+import 'package:illyricum_music/src/protobuf/user_access_configuration/Contract.pb.dart';
 import 'package:dio/dio.dart';
 import 'package:global_configuration/global_configuration.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';

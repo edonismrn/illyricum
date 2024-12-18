@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:salvador_task_management/src/features/menu/colors_menu.dart';
+import 'package:illyricum_music/src/features/menu/colors_menu.dart';
 import 'package:sidebarx/sidebarx.dart';
 
 class SidebarXMenus extends StatelessWidget {
